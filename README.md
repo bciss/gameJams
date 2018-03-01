@@ -6,4 +6,4 @@
 
 ## [Touhou-jam](https://github.com/alelievr/Touhou-jam)
 
-## [Ludum-Dare-40] (https://github.com/alelievr/Ludum-Dare-40)
+## [Ludum-Dare-40](https://github.com/alelievr/Ludum-Dare-40)
