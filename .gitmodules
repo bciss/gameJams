@@ -1,0 +1,12 @@
+[submodule "HELL"]
+	path = HELL
+	url = https://github.com/bciss/HELL
+[submodule "Paint-Jam-2018"]
+	path = Paint-Jam-2018
+	url = https://github.com/alelievr/Paint-Jam-2018
+[submodule "Touhou-jam"]
+	path = Touhou-jam
+	url = https://github.com/alelievr/Touhou-jam
+[submodule "Ludum-Dare-40"]
+	path = Ludum-Dare-40
+	url = https://github.com/alelievr/Ludum-Dare-40
